@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474192507039",
+    "project_id": "urunlerfirebase-7afb9",
+    "storage_bucket": "urunlerfirebase-7afb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474192507039:android:414604ca98706fac4bf2aa",
+        "android_client_info": {
+          "package_name": "com.example.unite7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474192507039-r9k3hv493n2ubh7hkp45ofrnq2avpi1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYdiehyhnKbYmcDl2HtpRQOUO8Y4D8lr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474192507039-r9k3hv493n2ubh7hkp45ofrnq2avpi1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
